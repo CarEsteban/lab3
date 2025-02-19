@@ -67,14 +67,10 @@ lab3/
    ```
 2. Navega al directorio del proyecto:
    ```sh
-   cd lab3-historia-interactiva
+   cd lab3
    ```
 3. Abre `index.html` en un navegador.
 
 ## ✍️ Autores
 
-- **[Tu Nombre]** - Desarrollo y narrativa.
-
-## 📜 Licencia
-
-Este proyecto está bajo la licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
+- **Esteban Cárcamo, 23016** - Desarrollo y narrativa.
