@@ -62,9 +62,12 @@ lab3/
 ## 📌 Instalación y Uso
 
 1. Clona el repositorio en tu máquina local:
+
    ```sh
-   git clone https://github.com/usuario/lab3-historia-interactiva.git
+   git clone https://github.com/CarEsteban/lab3.git
+
    ```
+
 2. Navega al directorio del proyecto:
    ```sh
    cd lab3
